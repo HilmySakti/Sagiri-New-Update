@@ -18,15 +18,15 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/YuzzuKamiyaka/bitch-bot
-> cd bitch-bot
+> git clone https://github.com/HilmySakti/Sagiri-New-Update
+> cd Sagiri-New-Update
 > bash install.sh
 > npm start/node main.js
 ```
 ## CARA INSTALL DI WINDOWS/RDP
 ```bash
-> git clone https://github.com/YuzzuKamiyaka/bitch-bot
-> cd bitch-bot
+> git clone https://github.com/HilmySakti/Sagiri-New-Update
+> cd Sagiri-New-Update
 > npm i
 > npm start/node index.js
 ```
